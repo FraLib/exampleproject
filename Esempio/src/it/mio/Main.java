@@ -11,8 +11,6 @@ public class Main {
 		listMessage.add("Buongiorno");
 		listMessage.add("Arrivederci");
 		listMessage.add("ciao");
-		listMessage.add("Tanti saluti");
-		listMessage.add("Nessun saluto");
 		
 		for(String m: listMessage) {
 			System.out.println(m);
