@@ -1,7 +1,7 @@
 package it.mio;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 
@@ -10,6 +10,7 @@ public class Main {
 		
 		listMessage.add("Buongiorno");
 		listMessage.add("Arrivederci");
+		listMessage.add("ciao");
 		
 		for(String m: listMessage) {
 			System.out.println(m);
