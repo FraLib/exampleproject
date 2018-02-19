@@ -12,10 +12,7 @@ public class Main {
 		listMessage.add("Arrivederci");
 		listMessage.add("ciao");
 		listMessage.add("Tanti saluti");
-		listMessage.add("A domani");
-		listMessage.add("Nessun saluto");
-		listMessage.add("Addio");
-		
+				
 		for(String m: listMessage) {
 			System.out.println(m);
 		}
