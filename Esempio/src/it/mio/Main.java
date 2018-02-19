@@ -13,6 +13,7 @@ public class Main {
 		listMessage.add("ciao");
 		listMessage.add("Tanti saluti");
 		listMessage.add("A domani");
+		listMessage.add("Nessun saluto");
 		
 		for(String m: listMessage) {
 			System.out.println(m);
