@@ -10,6 +10,7 @@ public class Main {
 		
 		listMessage.add("Buongiorno");
 		listMessage.add("Arrivederci");
+		listMessage.add("Ciao");
 	
 		for(String m: listMessage) {
 			System.out.println(m);
